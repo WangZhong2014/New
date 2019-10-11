@@ -101,4 +101,24 @@
 }
 .icon {
 }
+.marker {
+  color:#FFFFFF;
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.icon1 {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._默认样式 {
+}
 textarea, select, input, button { outline: none; }

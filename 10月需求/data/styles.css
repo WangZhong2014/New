@@ -128,4 +128,16 @@
 }
 ._默认样式 {
 }
+._二级标题 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状1 {
+}
+._图片 {
+  color:#000000;
+}
 textarea, select, input, button { outline: none; }

@@ -412,3 +412,13 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u89 {
+  border-width:0px;
+  position:absolute;
+  left:276px;
+  top:245px;
+  width:26px;
+  height:128px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

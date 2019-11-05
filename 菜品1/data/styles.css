@@ -22,6 +22,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -78,6 +80,8 @@
 }
 .table_cell {
 }
+.line {
+}
 .connector {
 }
 .menu_item {
@@ -101,7 +105,7 @@
   font-weight:400;
   font-style:normal;
 }
-.line {
+.line1 {
 }
 .arrow {
 }
@@ -138,6 +142,9 @@
   font-weight:400;
   font-style:normal;
 }
+._文本段落 {
+  text-align:left;
+}
 ._一级标题 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -169,5 +176,13 @@
   font-style:normal;
   font-size:32px;
   text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 textarea, select, input, button { outline: none; }

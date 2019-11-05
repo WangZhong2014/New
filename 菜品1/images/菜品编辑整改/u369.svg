@@ -1,22 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip5">
-      <path d="M 0 15  C 0 6.60000000000002  6.59999999999991 0  15 0  C 20.6765398606967 0  25.531061742055 3.01406592424217  28.0822266517166 7.56085878036907  C 29.3062109997099 9.74229490329094  30 12.2765398606968  30 15  C 30 23.4  23.4000000000001 30  15 30  C 6.59999999999991 30  0 23.4  0 15  Z " fill-rule="evenodd" />
-    </mask>
-    <filter x="2894px" y="350px" width="40px" height="40px" filterUnits="userSpaceOnUse" id="filter6">
-      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget7">
-      <path d="M 0 15  C 0 6.60000000000002  6.59999999999991 0  15 0  C 20.6765398606967 0  25.531061742055 3.01406592424217  28.0822266517166 7.56085878036907  C 29.3062109997099 9.74229490329094  30 12.2765398606968  30 15  C 30 23.4  23.4000000000001 30  15 30  C 6.59999999999991 30  0 23.4  0 15  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" transform="matrix(1 0 0 1 2898 354 )" />
-      <path d="M 0 15  C 0 6.60000000000002  6.59999999999991 0  15 0  C 20.6765398606967 0  25.531061742055 3.01406592424217  28.0822266517166 7.56085878036907  C 29.3062109997099 9.74229490329094  30 12.2765398606968  30 15  C 30 23.4  23.4000000000001 30  15 30  C 6.59999999999991 30  0 23.4  0 15  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 2898 354 )" mask="url(#clip5)" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -2894 -350 )">
-    <use xlink:href="#widget7" filter="url(#filter6)" />
-    <use xlink:href="#widget7" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="719px" height="2px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -867 -2573 )">
+    <path d="M 867 2573.5  L 1585 2573.5  " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>

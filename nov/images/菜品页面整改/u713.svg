@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="23px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1080 -441 )">
-    <path d="M 1091.5 441  C 1097.94 441  1103 446.06  1103 452.5  C 1103 458.94  1097.94 464  1091.5 464  C 1085.06 464  1080 458.94  1080 452.5  C 1080 446.06  1085.06 441  1091.5 441  Z " fill-rule="nonzero" fill="#d9001b" stroke="none" />
-    <path d="M 1091.5 441.5  C 1097.66 441.5  1102.5 446.34  1102.5 452.5  C 1102.5 458.66  1097.66 463.5  1091.5 463.5  C 1085.34 463.5  1080.5 458.66  1080.5 452.5  C 1080.5 446.34  1085.34 441.5  1091.5 441.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="637px" y="442px" width="40px" height="40px" filterUnits="userSpaceOnUse" id="filter122">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget123">
+      <path d="M 656 446  C 664.4 446  671 452.6  671 461  C 671 469.4  664.4 476  656 476  C 647.6 476  641 469.4  641 461  C 641 452.6  647.6 446  656 446  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" />
+      <path d="M 656 446.5  C 664.12 446.5  670.5 452.88  670.5 461  C 670.5 469.12  664.12 475.5  656 475.5  C 647.88 475.5  641.5 469.12  641.5 461  C 641.5 452.88  647.88 446.5  656 446.5  Z " stroke-width="1" stroke="#ffffff" fill="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -637 -442 )">
+    <use xlink:href="#widget123" filter="url(#filter122)" />
+    <use xlink:href="#widget123" />
   </g>
 </svg>

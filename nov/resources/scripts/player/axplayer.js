@@ -116,6 +116,10 @@ var iphoneXFirstPass = true;
         if (CHROME_5_LOCAL && !$('body').attr('pluginDetected')) {
             window.location = 'resources/chrome/chrome.html';
         }
+
+        if (FIREFOX && document.location.href.indexOf('file://') >= 0) { //detecting firefox and local
+            window.location = 'resources/chrome/firefox.html';
+        }
     });
 
     function appendOutOfDateNotification() {
@@ -449,9 +453,6 @@ var iphoneXFirstPass = true;
 
     $axure.player.resizeContent = function (noViewport) {
         var isMobile = isMobileMode();
-
-        var $left = $('.leftPanel');
-        var $right= $('.rightPanel');
 
         if (wasMobile && !isMobile) {
             $('#clippingBoundsScrollContainer').show();
@@ -970,9 +971,11 @@ var iphoneXFirstPass = true;
             var x = (mainPanelWidth - w) / 2;
             var y = (mainPanelHeight - h) / 2 - 1;
 
-            x = Math.max(0, x);
-            if (scaleVal != 2) y = Math.max(0, y);
-
+            if (scaleVal != 2) {
+                x = Math.max(0, x);
+                y = Math.max(0, y);
+            }
+            
             $('#mainPanelContainer').attr({
                 "data-scale-shift-x": x,
                 "data-scale-shift-y": y,
@@ -980,7 +983,8 @@ var iphoneXFirstPass = true;
 
             $('#mainPanelContainer').css({
                 'margin': 'auto',
-                'top': y + 'px'
+                'top': y + 'px',
+                'left': (x < 0 ? x + 'px' : 'auto')
             });
 
             $('#clipFrameScroll').css({
@@ -1899,7 +1903,7 @@ var iphoneXFirstPass = true;
 
             // Get current scale of mainPanelContainer
             // MainPanelContainer scaled without setContentScale message
-            var scale = $('#mainPanelContainer').css('transform');;
+            var scale = $('#mainPanelContainer').css('transform');
             scale = (scale == "none") ? 1 : Number(scale.substring(scale.indexOf('(') + 1, scale.indexOf(',')));
             const scaledLeft = (left * scale) - (width / 2);
             const scaledTop = (top * scale) - (height / 2);

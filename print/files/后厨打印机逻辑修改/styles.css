@@ -16,13 +16,13 @@
   position:absolute;
   z-index:0;
 }
-#u146_div {
+#u188_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:421px;
-  height:54px;
+  height:127px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -32,24 +32,24 @@
   box-shadow:none;
   font-size:18px;
 }
-#u146 {
+#u188 {
   border-width:0px;
   position:absolute;
   left:102px;
-  top:98px;
+  top:100px;
   width:421px;
-  height:54px;
+  height:127px;
   display:flex;
   font-size:18px;
 }
-#u146 .text {
+#u188 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u146_text {
+#u188_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

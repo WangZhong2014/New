@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-102px;
-  width:421px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:521px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -16,13 +16,13 @@
   position:absolute;
   z-index:0;
 }
-#u188_div {
+#u192_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:421px;
-  height:127px;
+  height:68px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -32,24 +32,24 @@
   box-shadow:none;
   font-size:18px;
 }
-#u188 {
+#u192 {
   border-width:0px;
   position:absolute;
-  left:102px;
-  top:100px;
+  left:100px;
+  top:101px;
   width:421px;
-  height:127px;
+  height:68px;
   display:flex;
   font-size:18px;
 }
-#u188 .text {
+#u192 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u188_text {
+#u192_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

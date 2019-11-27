@@ -61,19 +61,48 @@
 }
 .flow_shape {
 }
+.box_1 {
+}
 .image {
+}
+.ellipse {
+}
+.connector {
+}
+.box_2 {
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.line {
+}
+.link_button {
+  color:#169BD5;
+}
+.icon {
+}
+.placeholder {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.button {
+}
+.marker {
+  color:#FFFFFF;
+}
+.box_3 {
 }
 .refs-design-material {
   font-family:'Noto Sans CJK SC ', 'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
 }
-.box_2 {
-}
 .sticky_1 {
   text-align:left;
-}
-.icon {
 }
 ._一级标题 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -82,48 +111,21 @@
   font-size:32px;
   text-align:left;
 }
-.line {
-}
-.box_1 {
-}
-.placeholder {
-}
 .arrow {
-}
-.ellipse {
-}
-.connector {
-}
-.box_3 {
 }
 .refs-design-apple {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
-.refs-webm-wechat {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-.link_button {
-  color:#169BD5;
-}
 ._图片 {
   color:#000000;
-}
-.label {
-  font-size:14px;
-  text-align:left;
 }
 ._形状 {
 }
 .table_cell {
 }
 .primary_button {
-  color:#FFFFFF;
-}
-.marker {
   color:#FFFFFF;
 }
 .label1 {
@@ -133,7 +135,5 @@
 .line1 {
 }
 ._图片1 {
-}
-.button {
 }
 textarea, select, input, button { outline: none; }

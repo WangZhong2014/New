@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
-  width:801px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:-100px;
+  width:701px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 .form_sketch {
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u127_img {
+#u157_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:701px;
   height:2699px;
 }
-#u127 {
+#u157 {
   border-width:0px;
   position:absolute;
   left:100px;
@@ -33,20 +33,20 @@
   height:2699px;
   display:flex;
 }
-#u127 .text {
+#u157 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u127_text {
+#u157_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u128_div {
+#u158_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -62,7 +62,7 @@
   box-shadow:none;
   font-size:36px;
 }
-#u128 {
+#u158 {
   border-width:0px;
   position:absolute;
   left:100px;
@@ -72,14 +72,14 @@
   display:flex;
   font-size:36px;
 }
-#u128 .text {
+#u158 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u128_text {
+#u158_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

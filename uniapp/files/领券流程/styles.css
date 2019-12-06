@@ -16,7 +16,11 @@
   position:absolute;
   z-index:0;
 }
+<<<<<<< HEAD
 #u141_img {
+=======
+#u115_img {
+>>>>>>> a5bc5d5c9b91bac61101a19b8999c6a2f3a3df5b
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +28,11 @@
   width:1417px;
   height:2095px;
 }
+<<<<<<< HEAD
 #u141 {
+=======
+#u115 {
+>>>>>>> a5bc5d5c9b91bac61101a19b8999c6a2f3a3df5b
   border-width:0px;
   position:absolute;
   left:101px;
@@ -33,14 +41,22 @@
   height:2095px;
   display:flex;
 }
+<<<<<<< HEAD
 #u141 .text {
+=======
+#u115 .text {
+>>>>>>> a5bc5d5c9b91bac61101a19b8999c6a2f3a3df5b
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u141_text {
+=======
+#u115_text {
+>>>>>>> a5bc5d5c9b91bac61101a19b8999c6a2f3a3df5b
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

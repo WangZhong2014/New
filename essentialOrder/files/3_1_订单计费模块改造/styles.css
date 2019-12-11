@@ -61,7 +61,7 @@
   left:101px;
   top:217px;
   width:511px;
-  height:344px;
+  height:260px;
 }
 #u371_img {
   border-width:0px;
@@ -187,7 +187,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:90px;
+  height:32px;
 }
 #u375 {
   border-width:0px;
@@ -195,7 +195,7 @@
   left:0px;
   top:95px;
   width:100px;
-  height:90px;
+  height:32px;
   display:flex;
 }
 #u375 .text {
@@ -216,7 +216,7 @@
   left:0px;
   top:0px;
   width:411px;
-  height:90px;
+  height:32px;
 }
 #u376 {
   border-width:0px;
@@ -224,7 +224,7 @@
   left:100px;
   top:95px;
   width:411px;
-  height:90px;
+  height:32px;
   display:flex;
   text-align:left;
 }
@@ -246,15 +246,15 @@
   left:0px;
   top:0px;
   width:100px;
-  height:36px;
+  height:31px;
 }
 #u377 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:185px;
+  top:128px;
   width:100px;
-  height:36px;
+  height:31px;
   display:flex;
 }
 #u377 .text {
@@ -275,15 +275,15 @@
   left:0px;
   top:0px;
   width:411px;
-  height:36px;
+  height:31px;
 }
 #u378 {
   border-width:0px;
   position:absolute;
   left:100px;
-  top:185px;
+  top:128px;
   width:411px;
-  height:36px;
+  height:31px;
   display:flex;
   text-align:left;
 }
@@ -305,15 +305,15 @@
   left:0px;
   top:0px;
   width:100px;
-  height:70px;
+  height:39px;
 }
 #u379 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:221px;
+  top:159px;
   width:100px;
-  height:70px;
+  height:39px;
   display:flex;
 }
 #u379 .text {
@@ -334,15 +334,15 @@
   left:0px;
   top:0px;
   width:411px;
-  height:70px;
+  height:39px;
 }
 #u380 {
   border-width:0px;
   position:absolute;
   left:100px;
-  top:221px;
+  top:159px;
   width:411px;
-  height:70px;
+  height:39px;
   display:flex;
   text-align:left;
 }
@@ -357,7 +357,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u381_img {
   border-width:0px;
@@ -371,7 +370,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:292px;
+  top:197px;
   width:100px;
   height:53px;
   display:flex;
@@ -400,7 +399,7 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:292px;
+  top:197px;
   width:411px;
   height:53px;
   display:flex;

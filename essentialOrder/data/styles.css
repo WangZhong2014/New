@@ -1,0 +1,152 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+._二级标题 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状 {
+}
+._图片 {
+  color:#000000;
+}
+.box_1 {
+}
+.image {
+}
+.horizontal_line {
+}
+.box_2 {
+}
+._一级标题 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.icon {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.ellipse {
+}
+.connector {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.line {
+}
+.refs-design-fluent {
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+}
+.refs-design-material {
+  font-family:'Noto Sans CJK SC ', 'Noto Sans CJK SC';
+  font-weight:400;
+  font-style:normal;
+}
+.image1 {
+  color:#000000;
+}
+.paragraph1 {
+  text-align:left;
+}
+.shape {
+}
+.placeholder {
+}
+textarea, select, input, button { outline: none; }

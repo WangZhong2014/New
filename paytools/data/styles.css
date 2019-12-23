@@ -1,0 +1,151 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.image {
+}
+._图片 {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.line {
+}
+.table_cell {
+}
+.connector {
+}
+.shape {
+}
+.horizontal_line {
+}
+._默认样式 {
+}
+.flow_shape {
+}
+._标题2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.refs-web-ios {
+  font-family:'PingFang SC ', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.refs-webm-wechat {
+  font-family:'PingFang SC ', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.box_2 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.refs-webm-ios {
+  font-family:'PingFang SC ', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.refs-web-mobile {
+  font-family:'PingFang SC ', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+.flow_shape1 {
+}
+.marker {
+  color:#FFFFFF;
+}
+textarea, select, input, button { outline: none; }

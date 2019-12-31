@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="172px" preserveAspectRatio="xMidYMin meet" viewBox="2720 1583  16 172" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 2864 2628  L 2864 1751  A 5 5 0 0 0 2859 1746 L 2733 1746  A 5 5 0 0 1 2728 1741 L 2728 1597  A 5 5 0 0 0 2723 1592 " stroke-width="10" stroke="#0099cc" fill="none" />
-  <path d="M 2737 1574  L 2718 1592  L 2737 1610  L 2737 1574  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="809px" height="18px" preserveAspectRatio="xMinYMid meet" viewBox="1450 5811  809 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip109">
+      <path d="M 2190 5770  L 2310 5770  L 2310 5873  L 2190 5873  Z M 1449 5269  L 3403 5269  L 3403 5873  L 1449 5873  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 1449 5274  L 1454 5274  A 5 5 0 0 1 1459 5279 L 1459 5814  A 5 5 0 0 0 1464 5819 L 2245 5819  A 5 5 0 0 1 2250 5824 L 2250 5839.44444444444  A 5 5 0 0 0 2255 5844.44444444444 L 3187 5844.44444444444  A 5 5 0 0 0 3192 5839.44444444444 L 3192 5659  A 5 5 0 0 1 3197 5654 L 3371 5654  " stroke-width="10" stroke="#0099cc" fill="none" mask="url(#clip109)" />
+  <path d="M 3366 5672  L 3385 5654  L 3366 5636  L 3366 5672  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" mask="url(#clip109)" />
 </svg>

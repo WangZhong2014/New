@@ -600,6 +600,16 @@
         if(IOS) $container.css({ 'overflow-y': ''});
     }
 
+    //given the element, find the container that's using nice scroll (including the element itself)
+    $ax.adaptive.getNiceScrollContainer = function(element) {
+        var parent = element;
+        while(parent) {
+            if($(parent).getNiceScroll().length > 0) return parent;
+            parent = parent.parentElement;
+        }
+        return undefined;
+    }
+
 
     $ax.adaptive.updateMobileScrollOnBody = function () {
         var niceScroll = $('html').getNiceScroll();
